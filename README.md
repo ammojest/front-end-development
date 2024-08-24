@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # front-end-development
 [profile for my front-end development work
 =======
@@ -39,3 +40,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 >>>>>>> 15be5d8 (Initial commit from Create Next App)
+=======
+# Front-end Development
+
+profile for my front end development work
+>>>>>>> 5e553ee (initial commit)
