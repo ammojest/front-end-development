@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 const next = () => {
@@ -12,6 +13,9 @@ const next = () => {
           Add a new folder with the URL name (in lower case) and then create a
           page.tsx file with the same export name as the URL
         </p>
+        <Link href="https://nextjs.org/learn/dashboard-app/creating-layouts-and-pages">
+          Page link
+        </Link>
       </div>
     </>
   );
