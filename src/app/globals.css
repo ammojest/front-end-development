@@ -21,3 +21,10 @@
     text-wrap: balance;
   }
 }
+
+h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: rgb(var(--foreground-rgb));
+}
