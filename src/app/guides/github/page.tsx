@@ -6,6 +6,7 @@ const github = () => {
       <div>Github Page</div>
       <div>
         <h2>Guide: Adding a new local directory to a new Github repo</h2>
+        <p></p>
       </div>
     </>
   );
