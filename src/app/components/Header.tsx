@@ -45,7 +45,7 @@ export const Header = () => {
                 <Link href="/guides/next">Next JS</Link>
               </li>
               <li className="hover:underline underline-offset-4">
-                <Link href="/guides/react/components">React Components</Link>
+                <Link href="/frontend-components">Front-end Components</Link>
               </li>
             </ul>
           </div>
